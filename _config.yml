@@ -12,11 +12,11 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Xinyue Zhang"
 title_separator          : "-"
 name                     : &name "Xinyue Zhang"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://zxyyyue.github.io",
+description              : &description "Academic homepage of Xinyue Zhang, focusing on recommender systems, online advertising, and delayed feedback modeling."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://zxyyyue.github.io # The base hostname & protocol for your site e.g. "https://zxyyyue.github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://zxyyyue.github.io"
+repository               : "zxyyyue/zxyyyue.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,11 +24,11 @@ repository               : "https://zxyyyue.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xinyue Zhange"
+  name             : "Xinyue Zhang"
   pronouns         : # example: "she/her"  
   bio              : "M.S. student at the Institute of Computing Technology, Chinese Academy of Sciences."
   location         : "Beijing"
-  employer         : "Red Brick University"
+  employer         : "Institute of Computing Technology, Chinese Academy of Sciences"
   uri              : # URL
   email            : "zhangxinyue24s@ict.ac.cn" 
 
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
