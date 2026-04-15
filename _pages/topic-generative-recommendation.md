@@ -24,8 +24,9 @@ Generative recommendation aims to move beyond conventional retrieval-and-ranking
 - What are the trade-offs between generation quality, controllability, and serving cost?
 
 ## Paper Reading Notes
+- [HSTU: High-Performance Sequence Modeling (Generative Perspective)](/notes/hstu-reading/)
+- [OneRec: Generative Recommendation using LLMs](/notes/onerec-reading/)
 
-- Coming soon
 
 ## Reproduction / Implementation
 
