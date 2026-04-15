@@ -2,9 +2,6 @@ main:
   - title: "About"
     url: /
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "Topics"
     url: /topics/
 
