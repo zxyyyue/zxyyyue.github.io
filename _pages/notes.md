@@ -4,7 +4,7 @@ title: "Notes"
 author_profile: true
 ---
 
-# Notes
+
 
 This page collects my paper reading notes, technical reflections, and reproduction logs.
 
