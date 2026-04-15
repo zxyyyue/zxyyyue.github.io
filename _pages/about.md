@@ -21,6 +21,15 @@ The 49th International ACM SIGIR Conference on Research and Development in Infor
 **Xinyue Zhang**, Yuyao Guo, Xiang Ao.  
 CCF Conference on Big Data, 2024. Springer.
 
+## Research Topics
+
+I maintain topic-oriented notes on paper reading, technical reflections, and implementation logs. Current topics include:
+
+- [Generative Recommendation](/topic-generative-recommendation/)
+- [Multi-Task Learning](/topic-multi-task-learning/)
+- [Long Sequence Modeling](/topic-long-sequence-modeling/)
+- [Delayed Feedback](/topic-delayed-feedback/)
+
 ## Education
 
 **2024-present**, Master student, Computer Science, Institute of Computing Technology, Chinese Academy of Sciences.  

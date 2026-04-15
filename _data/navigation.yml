@@ -5,8 +5,11 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Topics"
+    url: /topics/
+
   - title: "Notes"
-    url: /year-archive/
+    url: /notes/
 
   - title: "CV"
     url: /cv/
