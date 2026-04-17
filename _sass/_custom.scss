@@ -93,3 +93,161 @@
     grid-template-columns: 1fr;
   }
 }
+/* =========================
+   Note page reading style
+   ========================= */
+
+.note-page {
+  background: #f7f4ee;
+}
+
+.note-page .masthead,
+.note-page .page__footer {
+  background: #f7f4ee;
+}
+
+.note-page .page {
+  max-width: 1180px;
+}
+
+.note-page .page__inner-wrap {
+  background: #fffdf8;
+  border-radius: 18px;
+  padding: 2.2rem 2.4rem 2.6rem 2.4rem;
+  box-shadow: 0 8px 26px rgba(0, 0, 0, 0.05);
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.note-page .page__title {
+  font-size: 2.35rem;
+  line-height: 1.2;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin-bottom: 1.2rem;
+}
+
+.note-page .page__content {
+  font-size: 1.08rem;
+  line-height: 1.95;
+  color: #333;
+}
+
+.note-page .page__content p {
+  margin: 0 0 1.15rem 0;
+}
+
+.note-page .page__content ul,
+.note-page .page__content ol {
+  margin-top: 0.4rem;
+  margin-bottom: 1.1rem;
+}
+
+.note-page .page__content li {
+  margin-bottom: 0.45rem;
+}
+
+.note-page .page__content h2 {
+  font-size: 1.75rem;
+  margin-top: 2.2rem;
+  margin-bottom: 0.9rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid #ece6da;
+}
+
+.note-page .page__content h3 {
+  font-size: 1.3rem;
+  margin-top: 1.6rem;
+  margin-bottom: 0.65rem;
+}
+
+.note-page .page__content h4 {
+  font-size: 1.1rem;
+  margin-top: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.note-page .page__content blockquote {
+  border-left: 4px solid #d8c7a3;
+  background: #fbf7ef;
+  padding: 0.9rem 1.1rem;
+  margin: 1.2rem 0;
+  color: #555;
+  border-radius: 8px;
+}
+
+.note-page .page__content img {
+  display: block;
+  max-width: 92%;
+  margin: 1.2rem auto;
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.note-page .page__content hr {
+  border: none;
+  border-top: 1px solid #ece6da;
+  margin: 2rem 0;
+}
+
+.note-page .page__content code {
+  background: #f4efe5;
+  padding: 0.15rem 0.4rem;
+  border-radius: 6px;
+  font-size: 0.92em;
+}
+
+.note-page .page__content pre {
+  background: #f8f4ec;
+  border: 1px solid #ece3d3;
+  border-radius: 10px;
+  padding: 0.95rem 1rem;
+  overflow-x: auto;
+}
+
+.note-page .page__content pre code {
+  background: transparent;
+  padding: 0;
+}
+
+.note-page .page__meta,
+.note-page .page__share,
+.note-page .pagination {
+  display: none;
+}
+
+.note-page .sidebar {
+  opacity: 0.92;
+}
+
+@media (min-width: 80em) {
+  .note-page .page {
+    float: none;
+    width: calc(100% - 260px);
+    padding-right: 0;
+  }
+
+  .note-page .page__inner-wrap {
+    max-width: 900px;
+  }
+}
+
+@media (max-width: 900px) {
+  .note-page .page__inner-wrap {
+    padding: 1.4rem 1.1rem 1.8rem 1.1rem;
+    border-radius: 12px;
+  }
+
+  .note-page .page__title {
+    font-size: 1.9rem;
+  }
+
+  .note-page .page__content {
+    font-size: 1rem;
+    line-height: 1.85;
+  }
+
+  .note-page .page__content img {
+    max-width: 100%;
+  }
+}

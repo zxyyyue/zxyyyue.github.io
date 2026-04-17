@@ -5,9 +5,9 @@ categories: [notes]
 tags: [long-sequence-modeling, paper-reading, recommender-systems]
 permalink: /notes/longer-scaling-up-long-sequence-modeling/
 author_profile: true
+classes: note-page
 ---
 
-# [LONGER]: Scaling Up Long Sequence Modeling in Industrial Recommenders
 
 > 论文地址：https://arxiv.org/pdf/2505.04421
 >
