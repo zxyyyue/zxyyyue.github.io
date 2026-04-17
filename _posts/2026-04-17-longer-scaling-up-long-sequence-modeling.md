@@ -1,18 +1,11 @@
-\---
-
+---
 title: "[LONGER] Scaling Up Long Sequence Modeling in Industrial Recommenders"
-
 date: 2026-04-17
-
 categories: [notes]
-
 tags: [long-sequence-modeling, paper-reading, recommender-systems]
-
 permalink: /notes/longer-scaling-up-long-sequence-modeling/
-
 author_profile: true
-
-\---
+---
 
 # [LONGER]: Scaling Up Long Sequence Modeling in Industrial Recommenders
 
