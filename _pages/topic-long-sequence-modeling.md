@@ -25,7 +25,7 @@ Long sequence modeling is increasingly important in modern recommendation system
 
 ## Paper Reading Notes
 
-- Coming soon
+\- [[LONGER] Scaling Up Long Sequence Modeling in Industrial Recommenders](/notes/longer-scaling-up-long-sequence-modeling/)
 
 ## Reproduction / Implementation
 

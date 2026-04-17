@@ -17,7 +17,7 @@ At the current stage, I mainly organize my notes around the following topics:
 
 ## Recent Notes
 
-- Coming soon
+- [[LONGER] Scaling Up Long Sequence Modeling in Industrial Recommenders](/notes/longer-scaling-up-long-sequence-modeling/)
 
 ## Writing Plan
 
